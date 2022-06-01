@@ -54,7 +54,7 @@ https://orange-dune-0e050de00.1.azurestaticapps.net/
 4. Enabled Github Pages for the project Repo
    https://ganeshbs17.github.io/HealthCareWeb-FRT/
    
-5. Create a static web app on Azure Cloud Portal
+5. Create a static web app on Azure Cloud Portal.
    Create New resource group for project and Select Azure for Students Subscription.
    Select Deployment Details as Github.
    Select Repository and Branch of Repository.
